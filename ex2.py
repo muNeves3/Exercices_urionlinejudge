@@ -38,7 +38,6 @@ while contador != pesquisasFeitas :
 
 
 for contador in range (pesquisasFeitas):
-
     if pesquisasAFazerInput[temp] in pesquisasFeitasinput[contador]:
         contadorIgualdade+= 1
     if contador == pesquisasFeitas :
